@@ -1,0 +1,5 @@
+node_modules/
+*_temp.html
+/test/output/*.pdf
+/test/fixtures/*.html
+/test/output/visual-comparison-workdir/

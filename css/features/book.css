@@ -1,0 +1,15 @@
+#toc {
+  break-before: page;
+}
+
+#preamble {
+  break-before: page;
+}
+
+.sect1 {
+  break-before: page;
+}
+
+#cover {
+  break-after: unset;
+}
