@@ -1,6 +1,6 @@
 # Asciidoctor PDF
 
-Initially this is a clone of Mogztter's directory demonstrating asciidoctor-web-pdf
+Initially this is a clone of Mogztter's directory demonstrating [asciidoctor-web-pdf](https://github.com/Mogztter/asciidoctor-web-pdf)
 
 The goal is to make a working example that is rendered on github. Apparently node.js needs to be added.
 
