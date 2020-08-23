@@ -1,5 +1,9 @@
 # Asciidoctor PDF
 
+Initially this is a clone of Mogztter's directory demonstrating asciidoctor-web-pdf
+
+The goal is to make a working example that is rendered on github. Apparently node.js needs to be added.
+
 [![Build](https://github.com/Mogztter/asciidoctor-pdf.js/workflows/Build/badge.svg)](https://github.com/Mogztter/asciidoctor-pdf.js/actions?query=workflow%3ABuild)
 [![npm version](https://img.shields.io/npm/v/asciidoctor-pdf.svg)](https://www.npmjs.org/package/asciidoctor-pdf)
 
