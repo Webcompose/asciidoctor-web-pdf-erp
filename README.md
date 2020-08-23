@@ -75,13 +75,13 @@ Pages are [here](https://webcompose.github.io/asciidoctor-web-pdf-erp/)
   <tr align="center">
     <td width="25%">
       Resume<br/>
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/tree/master/examples/resume/"> Source </a> /
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/resume/resume.pdf"> PDF </a>
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/resume/"> Source </a> /
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/resume/resume.pdf"> PDF </a>
     </td>
     <td width="25%">
       Slides<br/>
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/tree/master/examples/slides/ioslides/"> Source </a> /
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/slides/ioslides/presentation.pdf"> PDF </a>
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/slides/ioslides/"> Source </a> /
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/slides/ioslides/presentation.pdf"> PDF </a>
     </td>
     <td width="25%"></td>
     <td width="25%"></td>
