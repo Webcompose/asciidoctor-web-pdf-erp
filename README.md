@@ -60,13 +60,13 @@ Pages are [here](https://webcompose.github.io/asciidoctor-web-pdf-erp/)
 <table>
   <tr align="center">
     <td width="25%">
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/resume/resume.pdf">
-        <img src="https://github.com/Mogztter/asciidoctor-pdf.js/raw/master/examples/resume/resume_screenshot.png" />
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/resume/resume.pdf">
+        <img src="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/resume/resume_screenshot.png" />
       </a>
     </td>
     <td width="25%">
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/slides/ioslides/presentation.pdf">
-        <img src="https://github.com/Mogztter/asciidoctor-pdf.js/raw/master/examples/slides/ioslides/presentation_screenshot.png" />
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/slides/ioslides/presentation.pdf">
+        <img src="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/slides/ioslides/presentation_screenshot.png" />
       </a>
     </td>
     <td width="25%"></td>
