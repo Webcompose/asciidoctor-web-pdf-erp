@@ -37,23 +37,23 @@ Pages are [here](https://webcompose.github.io/asciidoctor-web-pdf-erp/)
   <tr align="center">
     <td with="25%">
       Document<br/>
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/tree/master/examples/document/"> source </a> /
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/document/document.pdf"> PDF </a>
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/document/"> source </a> /
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/document/document.pdf"> PDF </a>
     </td>
     <td with="25%">
       Letter<br/>
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/tree/master/examples/letter/"> Source </a> /
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/letter/letter.pdf"> PDF </a>
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/letter/"> Source </a> /
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/letter/letter.pdf"> PDF </a>
     </td>
     <td with="25%">
       Book<br/>
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/tree/master/examples/book/"> source </a> /
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/book/book.pdf"> PDF </a>
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/book"> source </a> /
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/book/book.pdf"> PDF </a>
     </td>
     <td with="25%">
       Cheat sheet<br/>
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/tree/master/examples/cheat-sheet/"> Source </a> /
-      <a href="https://github.com/Mogztter/asciidoctor-pdf.js/blob/master/examples/cheat-sheet/maven-security-cheat-sheet.pdf"> PDF </a>
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/cheat-sheet/"> Source </a> /
+      <a href="https://github.com/Webcompose/asciidoctor-web-pdf-erp/tree/master/examples/cheat-sheet/maven-security-cheat-sheet.pdf"> PDF </a>
     </td>
   </tr>
 </table>
